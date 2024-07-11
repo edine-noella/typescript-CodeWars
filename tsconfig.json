@@ -5,4 +5,4 @@
       "moduleResolution": "Node" // Find cjs modules in node_modules
     },
     "include": ["src"] // which files to compile
-  }
+}

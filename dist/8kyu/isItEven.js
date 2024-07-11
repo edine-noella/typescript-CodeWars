@@ -1,0 +1,4 @@
+function isItEven(n) {
+    return n % 2 === 0;
+}
+console.log(isItEven(2)); // true
