@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "outDir": "dist", // This will contain the output JS files after running
+      "target": "ES2015", // JS language level (as a build target)
+      "moduleResolution": "Node" // Find cjs modules in node_modules
+    },
+    "include": ["src"] // which files to compile
+  }
